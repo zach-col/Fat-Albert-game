@@ -1,0 +1,24 @@
+h1{
+	color: red;
+	text-align: center;
+	background-color: black;
+}
+body {
+    background: url(http://www.totalgymdirect.com/total-gym-blog/wp-content/uploads/2014/09/junk-food-2.jpg);
+}
+a:link{
+	color: white;
+}
+a:visited{
+	color: red;
+}
+a:hover{
+	color: white;
+}
+img{
+	height:400px;
+	width:400px;
+}
+.custom {
+   cursor: url(http://i2.wp.com/pgoaamericanprofile2.files.wordpress.com/2013/06/fa-024_copy1.jpg?crop=0px%2C6px%2C1677px%2C1009px&resize=670%2C405), auto;
+}
